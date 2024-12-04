@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wehara Soyza</h1>
-<h3 align="center">A passionate data scientist pursuing BSC (Hons) in Information Technology specializing in Data Science at SLIIT</h3>
+<h2 align="center">A passionate Data Scientist </h2>
+<h3 align="center">Pursuing BSC (Hons) in Information Technology specializing in Data Science at SLIIT</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=weharasliit&label=Profile%20views&color=0e75b6&style=flat" alt="weharasliit" />
