@@ -37,9 +37,7 @@
   <a href="mailto:soyzawehara@gmail.com" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/gmail-new.png" height="40" width="40" style="margin-right: 20px; transition: transform 0.3s;" />
   </a>
-  <a href="https://www.stackoverflow.com/users/your-id-here" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png" height="40" width="40" style="margin-right: 20px; transition: transform 0.3s;" />
-  </a>
+  
   <a href="https://wehara-soyza.tiiny.site" target="_blank">
     <img src="https://img.icons8.com/ultraviolet/2x/resume.png" height="40" width="40" style="margin-right: 20px; transition: transform 0.3s;" />
   </a>
