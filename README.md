@@ -17,6 +17,15 @@
   </ul>
 </div>
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> GitHub Stats</b>
+
+<div align="center">
+  
+![Wehara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=weharasliit&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  
+![Wehara's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=weharasliit&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/wehara-soyza" target="blank">
@@ -71,10 +80,4 @@
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> GitHub Stats</b>
 
-<div align="center">
-![](https://github-readme-stats.vercel.app/api?username=weharasliit&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=weharasliit&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=weharasliit&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
