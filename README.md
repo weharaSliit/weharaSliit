@@ -28,7 +28,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="www.linkedin.com/in/wehara-soyza-596717322" target="blank">
+  <a href="https://www.linkedin.com/in/wehara-soyza-596717322" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" style="margin-right: 20px; transition: transform 0.3s;"/>
   </a>
   <a href="https://github.com/weharaSliit" target="_blank">
