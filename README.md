@@ -1,97 +1,75 @@
-<h1 align="center">Hi 👋, I'm Wehara Soyza</h1>
-<h2 align="center">A passionate Data Scientist</h2>
-<h3 align="center">Pursuing BSC (Hons) in Information Technology specializing in Data Science at SLIIT</h3>
+<h1 align="center">Hi there 👋, I'm <span style="color:#16a34a;">[Your Name]</span></h1>
+<h3 align="center">Data Science Undergraduate | Full-Stack Developer | BI Enthusiast</h3>
+
+---
+
+🌱 I'm a 3rd-year undergraduate at **Sri Lanka Institute of Information Technology (SLIIT)**, specializing in **Data Science**.
+
+💡 I'm passionate about:
+- Analyzing data to drive insights
+- Building scalable full-stack applications
+- Designing ETL pipelines and data warehouses
+- Exploring machine learning and artificial intelligence
+
+🚀 My academic and project experience spans from **Data Engineering** to **Frontend UI** and **Business Intelligence** tools.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 🚀 Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+### 💻 Development
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![MERN Stack](https://img.shields.io/badge/MERN-3C3C3C?style=flat&logo=mongodb&logoColor=white)
+
+### 📊 Data & BI
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![Data Warehouse](https://img.shields.io/badge/DataWarehouse-673ab7?style=flat)
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=weharasliit&label=Profile%20views&color=0e75b6&style=flat" alt="weharasliit" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=weharaSliit&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=weharaSliit&show_icons=true&theme=algolia" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weharaSliit&layout=compact&theme=algolia" alt="Top Languages" />
 </p>
 
-<div style="background-color: #f9f9f9; padding: 30px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
-  <ul style="list-style-type: none; padding: 0; font-size: 18px; line-height: 1.6;">
-    
-    <li>🌱 I’m currently learning **Python with machine learning**</li>
-    <li>👨‍💻 All of my projects are available at <a href="https://wehara-soyza.vercel.app/" target="_blank">https://wehara-soyza.vercel.app/</a></li>
-    <li>📫 How to reach me: **soyzawehara@gmail.com**</li>
-    <li>📄 Know about my experiences: <a href="https://wehara-soyza.tiiny.site" target="_blank">https://wehara-soyza.tiiny.site</a></li>
-    <li>⚡ Fun fact: **I turn data into stories—and occasionally into midnight snacks!**</li>
-  </ul>
-</div>
+---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> GitHub Stats</b>
+## 💼 Projects & Work
 
-<div align="center">
-  
-![Wehara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=weharasliit&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  
-![Wehara's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=weharasliit&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
+- 🚗 **PickMe Database Intern Candidate** – Hands-on SQL, ETL, Redis, system design.
+- 🌿 **GrowSphere** – Gardening challenge platform using Spring Boot, React, and MongoDB.
+- 🎨 **Art Gallery Management** – MERN-based full-stack system for gallery operations.
+- 💍 **Wedding Management System** – Java & MySQL system with structured OOP logic.
+- 📊 **Cannabis Dispensary Data Warehouse** – Complete DWH with SSAS Cube, Excel OLAP, and Power BI reporting.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/wehara-soyza-596717322" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" style="margin-right: 20px; transition: transform 0.3s;"/>
-  </a>
-  <a href="https://github.com/weharaSliit" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" height="40" width="40" style="margin-right: 20px; transition: transform 0.3s;" />
-  </a>
-  <a href="mailto:soyzawehara@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/000000/gmail-new.png" height="40" width="40" style="margin-right: 20px; transition: transform 0.3s;" />
-  </a>
-  
-  <a href="https://wehara-soyza.tiiny.site" target="_blank">
-    <img src="https://img.icons8.com/ultraviolet/2x/resume.png" height="40" width="40" style="margin-right: 20px; transition: transform 0.3s;" />
-  </a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<div style="background-color: #ffffff; padding: 30px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
-  <p align="left">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60" style="margin: 10px; transition: transform 0.3s;"/>
-    </a>
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60" style="margin: 10px; transition: transform 0.3s;"/>
-    </a>
-    <a href="https://www.pytorch.org" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="60" height="60" style="margin: 10px; transition: transform 0.3s;"/>
-    </a>
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="60" height="60" style="margin: 10px; transition: transform 0.3s;"/>
-    </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60" style="margin: 10px; transition: transform 0.3s;"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60" style="margin: 10px; transition: transform 0.3s;"/>
-    </a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="60" height="60" style="margin: 10px; transition: transform 0.3s;"/>
-    </a>
-    <a href="https://www.postman.com" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60" style="margin: 10px; transition: transform 0.3s;"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60" style="margin: 10px; transition: transform 0.3s;"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60" style="margin: 10px; transition: transform 0.3s;"/>
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60" style="margin: 10px; transition: transform 0.3s;"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" style="margin: 10px; transition: transform 0.3s;"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60" style="margin: 10px; transition: transform 0.3s;"/>
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="60" height="60" style="margin: 10px; transition: transform 0.3s;"/>
-    </a>
-    
-  </p>
-</div>
+## 📫 Let's Connect
 
-<br>
+- ✉️ [Email](mailto:your.email@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
+- 🌐 [Portfolio](https://your-portfolio-link.com)
 
+---
+
+> “Data is a precious thing and will last longer than the systems themselves.” – Tim Berners-Lee
+
+---
 
