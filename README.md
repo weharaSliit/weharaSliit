@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#16a34a;">Wehara Soyza</span></h1>
-<h3 align="center">🚀 Data Science Undergraduate | Data ENgineering Enthusiast | AI Enthusiast</h3>
+<h3 align="center">🚀 Data Science Undergraduate | Data Engineering Enthusiast | AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=SLIIT+Data+Science+Undergraduate;Data+Engineer+%7C+ML+Explorer+%7C+Full+Stack+Developer" alt="Typing SVG" />
@@ -49,9 +49,11 @@
 
 ---
 
-## 💼 Notable Projects
+
 
 - 🚗 **PickMe (DB Engineer Intern)** – Hands-on with advanced SQL, ETL pipelines, Redis, data modeling & optimization.
+  
+  ## 💼 Notable Projects
 - 🌿 **GrowSphere** – A sustainable gardening skill sharing platform built with **Spring Boot + React + MongoDB**.
 - 🎨 **Art Gallery Management System** – Complete **MERN Stack** system with admin/curator user roles and image handling.
 - 💍 **Wedding Management System** – Java & MySQL based OOP-focused event management tool.
