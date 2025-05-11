@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#16a34a;">[Your Name]</span></h1>
-<h3 align="center">Data Science Undergraduate | Full-Stack Developer | BI Enthusiast</h3>
+<h1 align="center">Hi there 👋, I'm <span style="color:#16a34a;">Wehara Soyza</span></h1>
+<h3 align="center">Data Science Undergraduate | Data Science Enthusiast </h3>
 
 ---
 
@@ -53,19 +53,19 @@
 
 ## 💼 Projects & Work
 
-- 🚗 **PickMe Database Intern Candidate** – Hands-on SQL, ETL, Redis, system design.
+- 🚗 **PickMe DBOps Intern ** – Hands-on SQL, ETL, Redis, system design.
 - 🌿 **GrowSphere** – Gardening challenge platform using Spring Boot, React, and MongoDB.
 - 🎨 **Art Gallery Management** – MERN-based full-stack system for gallery operations.
 - 💍 **Wedding Management System** – Java & MySQL system with structured OOP logic.
-- 📊 **Cannabis Dispensary Data Warehouse** – Complete DWH with SSAS Cube, Excel OLAP, and Power BI reporting.
+- 📊 ** Data Warehouse** – Complete DWH with SSAS Cube, Excel OLAP, and Power BI reporting.
 
 ---
 
 ## 📫 Let's Connect
 
-- ✉️ [Email](mailto:your.email@example.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
-- 🌐 [Portfolio](https://your-portfolio-link.com)
+- ✉️ [Email](mailto:soyzawehara@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/wehara-soyza-596717322)
+- 🌐 [Portfolio]([https://your-portfolio-link.com](https://wehara-soyza.vercel.app/))
 
 ---
 
