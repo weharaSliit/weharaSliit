@@ -1,47 +1,50 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#16a34a;">Wehara Soyza</span></h1>
-<h3 align="center">🚀 Data Science Undergraduate | Data Engineering Enthusiast | AI Enthusiast</h3>
+<h3 align="center">🚀 Aspiring Data Engineer | Data Science Undergraduate | AI Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=SLIIT+Data+Science+Undergraduate;Data+Engineer+%7C+ML+Explorer+%7C+Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=500&lines=SLIIT+Data+Science+Undergraduate;Data+Engineering+%7C+ML+Explorer+%7C+Full+Stack+Developer" alt="Typing SVG" />
 </p>
 
 ---
 
-🎓 I'm a **3rd-year undergraduate at Sri Lanka Institute of Information Technology (SLIIT)**, majoring in **Data Science**.
-
-💡 My interests span across:
-- 🔍 **Data Analytics & Visualization**
-- 🧠 **Machine Learning & AI**
-- ⚙️ **ETL Pipelines & Data Warehousing**
-- 🌐 **Scalable Full-Stack Development**
-- 📊 **BI Dashboards & Cloud Data Services**
+🎓 **3rd-year Data Science Undergraduate** at the **Sri Lanka Institute of Information Technology (SLIIT)**  
+💡 Passionate about turning raw data into actionable insights, building scalable systems, and exploring intelligent algorithms.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 💡 What I Love Working On
+- 📊 **Data Analytics & Visualization**
+- 🧠 **Machine Learning & AI Applications**
+- ⚙️ **ETL Pipelines & Data Engineering**
+- 🌐 **Full Stack Web Development**
+- ☁️ **Cloud-Based BI & Scalable Architecture**
+
+---
+
+## 🔧 Tech Stack
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🌐 Full Stack Frameworks
+### 🧰 Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MERN Stack](https://img.shields.io/badge/MERN-3C3C3C?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🎨 Frontend Styling
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer--Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 📊 Data & BI Tools
+### 🗃️ Databases & BI
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -49,47 +52,51 @@
 
 ---
 
+## 🚀 Experience
 
-
-- 🚗 **PickMe (DB Engineer Intern)** – Hands-on with advanced SQL, ETL pipelines, Redis, data modeling & optimization.
-  
-  ## 💼 Notable Projects
-- 🌿 **GrowSphere** – A sustainable gardening skill sharing platform built with **Spring Boot + React + MongoDB**.
-- 🎨 **Art Gallery Management System** – Complete **MERN Stack** system with admin/curator user roles and image handling.
-- 💍 **Wedding Management System** – Java & MySQL based OOP-focused event management tool.
-- 📊 **Data Warehouse Project** – End-to-end OLAP model using **SSAS cubes**, **Excel**, **Power BI**, and dimensional modeling.
+**🔹 PickMe – Database Engineer Intern**  
 
 ---
 
-## 🌐 Portfolio
+## 💼 Projects
 
-🔗 [Visit my portfolio site](https://wehara-soyza.vercel.app/)  
-💻 Built using **React**, **Tailwind CSS**, and **Framer Motion** to showcase my **skills, achievements, and full-stack projects** in a smooth, animated interface.
+- 🌿 **GrowSphere** – A sustainable gardening challenge platform  
+  *Tech: Spring Boot + React + MongoDB*
+
+- 🎨 **Art Gallery Management System** – Curator/admin portal with image handling  
+  *Tech: MERN Stack*
+
+- 💍 **Wedding Management System** – OOP-based event tool using Java/MySQL  
+  *Tech: Java + JDBC + MVC Architecture*
+
+- 📈 **Data Warehouse Project** – OLAP modeling with SSAS, Excel, and Power BI  
+  *Concepts: Snowflake Schema, Fact/Dimension Tables, Cube Aggregations*
 
 ---
 
-## 📈 GitHub Stats & Activity
+## 🌐 Portfolio & Links
+
+- 🔗 [Portfolio Website](https://wehara-soyza.vercel.app/)
+- 📫 [Email Me](mailto:soyzawehara@gmail.com)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/wehara-soyza-596717322)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=weharaSliit&theme=tokyonight&hide_border=true" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=weharaSliit&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=weharaSliit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=weharaSliit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weharaSliit&layout=compact&theme=tokyonight&hide_border=true" alt="langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weharaSliit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
   <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=weharaSliit&theme=tokyonight" alt="summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=weharaSliit&theme=tokyonight" alt="Profile Summary" />
 </p>
 
 ---
 
-## 🤝 Let's Connect
-
-- 📧 [soyzawehara@gmail.com](mailto:soyzawehara@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/wehara-soyza-596717322)
-- 🌐 [Portfolio](https://wehara-soyza.vercel.app/)
-
----
-
+## 💬 Quote I Live By  
 > “**Data is a precious thing and will last longer than the systems themselves.**” – *Tim Berners-Lee*
 
 ---
