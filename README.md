@@ -8,7 +8,7 @@
 
 <div style="background-color: #f9f9f9; padding: 30px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
   <ul style="list-style-type: none; padding: 0; font-size: 18px; line-height: 1.6;">
-    <li>🔭 I’m currently working on **Movie Recommendation System**</li>
+    
     <li>🌱 I’m currently learning **Python with machine learning**</li>
     <li>👨‍💻 All of my projects are available at <a href="https://wehara-soyza.vercel.app/" target="_blank">https://wehara-soyza.vercel.app/</a></li>
     <li>📫 How to reach me: **soyzawehara@gmail.com**</li>
