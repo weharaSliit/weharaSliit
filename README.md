@@ -28,6 +28,7 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -78,6 +79,10 @@ Tech Stack: `Java`, `JDBC`, `MySQL`, `OOP Principles`
 
 ### 📊 Data Warehouse Project  
 > OLAP model using `SSAS`, `Snowflake Schema`, `Power BI`, and `Excel PivotTables`
+
+### ⏰ GoTask – Simple Task Manager App  
+> *A lightweight Android app built using Kotlin and SharedPreferences for managing daily tasks efficiently. Users can add tasks with deadlines, and the app triggers an alarm notification when the time is up.*  
+Tech Stack: `Kotlin`, `Android Studio`, `SharedPreferences`, `AlarmManager`
 
 ---
 
