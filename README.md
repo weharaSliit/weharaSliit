@@ -97,9 +97,6 @@ Tech Stack: `Kotlin`, `Android Studio`, `SharedPreferences`, `AlarmManager`
 
   <!-- GitHub Stats with 3D Effect -->
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=weharaSliit&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered&ring_color=DD2727&border_radius=15" alt="GitHub Stats"/>
-  
-  <!-- Wakatime Stats (if you use it) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=weharaSliit&theme=radical&hide_border=true&layout=compact&border_radius=15&langs_count=6" alt="Wakatime Stats"/>
 
   <!-- Dynamic Streak Stats -->
   <img height="180em" src="https://streak-stats.demolab.com?user=weharaSliit&theme=radical&hide_border=true&fire=DD2727&ring=DD2727&currStreakNum=FFFFFF&background=0D1117&border_radius=15" alt="GitHub Streak"/>
