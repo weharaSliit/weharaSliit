@@ -75,11 +75,6 @@
 
 ---
 
-🔥 Recent Projects
-<table> <tr> <td width="50%"> <h3 align="center">GrowSphere</h3> <div align="center"> <img src="https://via.placeholder.com/400x225/16a34a/ffffff?text=Sustainable+Gardening+Platform" alt="GrowSphere" /> <p>Spring Boot + React + MongoDB | Sustainable gardening challenge platform</p> <a href="#"><img src="https://img.shields.io/badge/View_Project-16a34a?style=for-the-badge" /></a> </div> </td> <td width="50%"> <h3 align="center">Data Warehouse Project</h3> <div align="center"> <img src="https://via.placeholder.com/400x225/2563eb/ffffff?text=OLAP+Data+Modeling" alt="Data Warehouse" /> <p>SSAS + Power BI | Snowflake schema with cube aggregations</p> <a href="#"><img src="https://img.shields.io/badge/View_Project-2563eb?style=for-the-badge" /></a> </div> </td> </tr> </table>
-
-
- ---
 
 #🏆 GitHub Trophies
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=weharaSliit&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" /> </p>
