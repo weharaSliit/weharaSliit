@@ -93,18 +93,7 @@ Tech Stack: `Kotlin`, `Android Studio`, `SharedPreferences`, `AlarmManager`
 
 ## 📊 GitHub Analytics Dashboard
 
-<div align="center">
-
-  <!-- GitHub Stats with 3D Effect -->
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=weharaSliit&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered&ring_color=DD2727&border_radius=15" alt="GitHub Stats"/>
-
-  <!-- Dynamic Streak Stats -->
-  <img height="180em" src="https://streak-stats.demolab.com?user=weharaSliit&theme=radical&hide_border=true&fire=DD2727&ring=DD2727&currStreakNum=FFFFFF&background=0D1117&border_radius=15" alt="GitHub Streak"/>
-  
-  <!-- 3D Language Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weharaSliit&layout=compact&theme=radical&hide_border=true&langs_count=8&border_radius=15&card_width=445" alt="Top Languages"/>
-
-</div>
+<div align="center"> <!-- 🧩 GitHub Stats – Custom Glow & Rounded --> <img src="https://github-readme-stats-git-main-oehtayo.vercel.app/api?username=weharaSliit&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&include_all_commits=true&count_private=true" height="180em"/> <!-- 🔥 GitHub Streak – Gradient Glow --> <img src="https://streak-stats.demolab.com?user=weharaSliit&theme=tokyonight_duo&hide_border=true&fire=F85C50&ring=7DF9FF&currStreakNum=FAD000&currStreakLabel=FFFFFF&stroke=000000&background=000000" height="180em"/> <!-- 🧠 Top Languages – Sleek Gradient Card --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weharaSliit&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&langs_count=8&card_width=445" height="180em"/> </div>
 
 <!-- Advanced Activity Graph -->
 <div align="center">
