@@ -91,9 +91,26 @@ Tech Stack: `Kotlin`, `Android Studio`, `SharedPreferences`, `AlarmManager`
 
 ---
 
-## 📈 GitHub Insights
+## 📊 GitHub Analytics
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=weharaSliit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Wehara's GitHub Stats" /> <br><br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=weharaSliit&theme=tokyonight&hide_border=true" alt="Wehara's GitHub Streak" /> <br><br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weharaSliit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" /> <br><br> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=weharaSliit&theme=tokyonight" alt="GitHub Profile Summary" /> </p>
+<div align="center">
+  
+  <!-- Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weharaSliit&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered" alt="GitHub Stats"/>
+  
+  <!-- Streak Stats -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=weharaSliit&theme=radical&hide_border=true&fire=DD2727&ring=DD2727&currStreakNum=FFFFFF" alt="GitHub Streak"/>
+  
+  <!-- Language Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weharaSliit&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=github-readme-stats" alt="Top Languages"/>
+  
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=weharaSliit&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="Activity Graph"/>
+  
+  <!-- Metrics -->
+  <img width="90%" src="https://metrics.lecoq.io/weharaSliit?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&lines=1&lines.sections=base&lines.repositories.limit=4&config.timezone=Asia%2FColombo" alt="GitHub Metrics"/>
+  
+</div>
 
 ---
 
