@@ -65,16 +65,24 @@ Worked with large-scale SQL datasets, optimized queries.
 
 ## 🌟 Featured Projects
 
-<div align="center">
+### 🌿 GrowSphere
+> *A sustainable gardening challenge platform to share, learn, and grow*  
+Tech Stack: `Spring Boot`, `React`, `MongoDB`, `Tailwind`
 
-| Project | Tech Stack | Demo |
-|---------|------------|------|
-| **🌿 GrowSphere**<br>Gardening challenge platform | `Spring Boot` `React` `MongoDB` `Tailwind` | [![Live Demo](https://img.shields.io/badge/Demo-Live-green?style=flat-square)]() |
-| **🖼️ Art Gallery Management**<br>Curator dashboard system | `MERN Stack` `JWT Auth` `React Router` | [![View Code](https://img.shields.io/badge/Code-View-blue?style=flat-square)]() |
-| **📊 Data Warehouse**<br>OLAP model with BI integration | `SSAS` `Snowflake Schema` `Power BI` | [![View Report](https://img.shields.io/badge/Report-View-orange?style=flat-square)]() |
-| **⏰ GoTask**<br>Android task manager | `Kotlin` `Android Studio` `AlarmManager` | [![Play Store](https://img.shields.io/badge/Play_Store-Get-brightgreen?style=flat-square)]() |
+### 🖼️ Art Gallery Management System  
+> Curator/admin dashboard to manage artwork, view statistics, and secure uploads  
+Tech Stack: `MERN Stack`, `JWT Auth`, `React Router`
 
-</div>
+### 💍 Wedding Management System  
+> Java-based MVC app for managing wedding packages and bookings  
+Tech Stack: `Java`, `JDBC`, `MySQL`, `OOP Principles`
+
+### 📊 Data Warehouse Project  
+> OLAP model using `SSAS`, `Snowflake Schema`, `Power BI`, and `Excel PivotTables`
+
+### ⏰ GoTask – Simple Task Manager App  
+> *A lightweight Android app built using Kotlin and SharedPreferences for managing daily tasks efficiently. Users can add tasks with deadlines, and the app triggers an alarm notification when the time is up.*  
+Tech Stack: `Kotlin`, `Android Studio`, `SharedPreferences`, `AlarmManager`
 
 ---
 
