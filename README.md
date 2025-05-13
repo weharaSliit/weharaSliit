@@ -91,9 +91,38 @@ Tech Stack: `Kotlin`, `Android Studio`, `SharedPreferences`, `AlarmManager`
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics Dashboard
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=weharaSliit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Wehara's GitHub Stats" /> <br><br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=weharaSliit&theme=tokyonight&hide_border=true" alt="Wehara's GitHub Streak" /> <br><br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weharaSliit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" /> <br><br> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=weharaSliit&theme=tokyonight" alt="GitHub Profile Summary" /> </p>
+<div align="center">
+
+  <!-- GitHub Stats with 3D Effect -->
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=weharaSliit&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered&ring_color=DD2727&border_radius=15" alt="GitHub Stats"/>
+  
+  <!-- Wakatime Stats (if you use it) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=weharaSliit&theme=radical&hide_border=true&layout=compact&border_radius=15&langs_count=6" alt="Wakatime Stats"/>
+
+  <!-- Dynamic Streak Stats -->
+  <img height="180em" src="https://streak-stats.demolab.com?user=weharaSliit&theme=radical&hide_border=true&fire=DD2727&ring=DD2727&currStreakNum=FFFFFF&background=0D1117&border_radius=15" alt="GitHub Streak"/>
+  
+  <!-- 3D Language Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weharaSliit&layout=compact&theme=radical&hide_border=true&langs_count=8&border_radius=15&card_width=445" alt="Top Languages"/>
+
+</div>
+
+<!-- Advanced Activity Graph -->
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=weharaSliit&theme=react-dark&hide_border=true&area=true&custom_title=My%20Development%20Activity&point=DD2727&area_color=DD2727&bg_color=0D1117&line=8A2BE2&color=8A2BE2" alt="Activity Graph"/>
+</div>
+
+<!-- Contribution Calendar with Heatmap -->
+<div align="center">
+  <img width="90%" src="https://github-readme-stats.vercel.app/api?username=weharaSliit&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered&ring_color=DD2727&border_radius=15&custom_title=My%20Contribution%20Calendar&show_icons=false&include_all_commits=true&line_height=24&hide_title=true" alt="Contribution Calendar"/>
+</div>
+
+<!-- GitHub Metrics with Multiple Views -->
+<div align="center">
+  <img width="90%" src="https://metrics.lecoq.io/weharaSliit?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&lines=1&lines.sections=base&lines.repositories.limit=4&config.timezone=Asia%2FColombo&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=1&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false" alt="GitHub Metrics"/>
+</div>
 
 
 ---
