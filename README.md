@@ -55,7 +55,7 @@
 ## 🧪 Experience
 
 **🔹 PickMe – Database Engineer Intern**  
-*Worked on real-time data pipelines, optimization strategies, and query performance tuning.*
+
 
 ---
 
