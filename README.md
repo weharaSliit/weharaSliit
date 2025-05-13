@@ -95,15 +95,7 @@ Tech Stack: `Kotlin`, `Android Studio`, `SharedPreferences`, `AlarmManager`
 
 ## 📈 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=weharaSliit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=weharaSliit&theme=tokyonight&hide_border=true" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weharaSliit&layout=compact&theme=tokyonight&hide_border=true" />
-  <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=weharaSliit&theme=tokyonight" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=weharaSliit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Wehara's GitHub Stats" /> <br><br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=weharaSliit&theme=tokyonight&hide_border=true" alt="Wehara's GitHub Streak" /> <br><br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weharaSliit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" /> <br><br> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=weharaSliit&theme=tokyonight" alt="GitHub Profile Summary" /> </p>
 
 ---
 
