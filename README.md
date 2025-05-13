@@ -7,21 +7,21 @@
 
 ---
 
-🎓 **3rd-year Data Science Undergraduate** at the **Sri Lanka Institute of Information Technology (SLIIT)**  
-💡 Passionate about turning raw data into actionable insights, building scalable systems, and exploring intelligent algorithms.
+🎓 **3rd-year Data Science Undergraduate** at **Sri Lanka Institute of Information Technology (SLIIT)**  
+💡 Passionate about transforming raw data into **actionable insights**, building **scalable systems**, and exploring **intelligent algorithms**.
 
 ---
 
 ## 💡 What I Love Working On
-- 📊 **Data Analytics & Visualization**
-- 🧠 **Machine Learning & AI Applications**
-- ⚙️ **ETL Pipelines & Data Engineering**
-- 🌐 **Full Stack Web Development**
-- ☁️ **Cloud-Based BI & Scalable Architecture**
+- 📊 Data Analytics & Visualization  
+- 🧠 Machine Learning & AI Applications  
+- ⚙️ ETL Pipelines & Data Engineering  
+- 🌐 Full Stack Web Development  
+- ☁️ Cloud-Based BI & Scalable Architecture  
 
 ---
 
-## 🔧 Tech Stack
+## 🧰 Tech Stack
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -32,7 +32,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### 🧰 Frameworks & Libraries
+### 🚀 Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -52,51 +52,55 @@
 
 ---
 
-## 🚀 Experience
+## 🧪 Experience
 
 **🔹 PickMe – Database Engineer Intern**  
+*Worked on real-time data pipelines, optimization strategies, and query performance tuning.*
 
 ---
 
 ## 💼 Projects
 
 - 🌿 **GrowSphere** – A sustainable gardening challenge platform  
-  *Tech: Spring Boot + React + MongoDB*
+  _Tech: Spring Boot + React + MongoDB_
 
 - 🎨 **Art Gallery Management System** – Curator/admin portal with image handling  
-  *Tech: MERN Stack*
+  _Tech: MERN Stack_
 
 - 💍 **Wedding Management System** – OOP-based event tool using Java/MySQL  
-  *Tech: Java + JDBC + MVC Architecture*
+  _Tech: Java + JDBC + MVC Architecture_
 
 - 📈 **Data Warehouse Project** – OLAP modeling with SSAS, Excel, and Power BI  
-  *Concepts: Snowflake Schema, Fact/Dimension Tables, Cube Aggregations*
+  _Concepts: Snowflake Schema, Fact/Dimension Tables, Cube Aggregations_
 
 ---
 
-## 🌐 Portfolio & Links
-
-- 🔗 [Portfolio Website](https://wehara-soyza.vercel.app/)
-- 📫 [Email Me](mailto:soyzawehara@gmail.com)
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/wehara-soyza-596717322)
-
----
-
-## 📊 GitHub Stats
+## 🌐 Connect with Me
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=weharaSliit&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=weharaSliit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
-  <br/><br/>
+  <a href="https://wehara-soyza.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-16a34a?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:soyzawehara@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/wehara-soyza-596717322"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=weharaSliit&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=weharaSliit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weharaSliit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-  <br/><br/>
+  <br><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=weharaSliit&theme=tokyonight" alt="Profile Summary" />
 </p>
 
 ---
 
 ## 💬 Quote I Live By  
+
 > “**Data is a precious thing and will last longer than the systems themselves.**” – *Tim Berners-Lee*
 
 ---
