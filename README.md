@@ -110,6 +110,21 @@ Tech Stack: `Kotlin`, `Android Studio`, `SharedPreferences`, `AlarmManager`
 <div align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=weharaSliit&theme=react-dark&hide_border=true&area=true&custom_title=My%20Development%20Activity&point=DD2727&area_color=DD2727&bg_color=0D1117&line=8A2BE2&color=8A2BE2" alt="Activity Graph"/>
 </div>
+
+---
+
+## 📈 Coding Activity
+
+<!-- WakaTime Week Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=weharaSliit&api_domain=wakatime.com&v=2&layout=compact&langs_count=6&custom_title=Weekly%20Development%20Breakdown&range=last_7_days&theme=radical&hide_border=true&border_radius=15" alt="WakaTime Stats"/>
+</div>
+
+<!-- Code Time Stats -->
+<div align="center">
+  <img src="https://img.shields.io/endpoint?url=https://codetime-api.datreks.com/badge/1234?logoColor=white%26project=%26recentMS=0%26showProject=false%26style=flat-square%26v=1" alt="Code Time"/>
+</div>
+
 ---
 
 ## 🌐 Connect With Me
