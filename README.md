@@ -59,7 +59,7 @@
 ## 👨‍💻 Experience
 
 **🔹 PickMe – Database Engineer Intern**  
-Worked with large-scale SQL datasets, optimized queries.
+Worked with large-scale SQL datasets, optimized queries, and supported ETL workflows for high-frequency ride data.
 
 ---
 
@@ -67,38 +67,51 @@ Worked with large-scale SQL datasets, optimized queries.
 
 ### 🌿 GrowSphere
 > *A sustainable gardening challenge platform to share, learn, and grow*  
-Tech Stack: `Spring Boot`, `React`, `MongoDB`, `Tailwind`
+> 🛠 `Spring Boot`, `React`, `MongoDB`, `Tailwind`
 
 ### 🖼️ Art Gallery Management System  
 > Curator/admin dashboard to manage artwork, view statistics, and secure uploads  
-Tech Stack: `MERN Stack`, `JWT Auth`, `React Router`
+> 🛠 `MERN Stack`, `JWT Auth`, `React Router`
 
 ### 💍 Wedding Management System  
 > Java-based MVC app for managing wedding packages and bookings  
-Tech Stack: `Java`, `JDBC`, `MySQL`, `OOP Principles`
+> 🛠 `Java`, `JDBC`, `MySQL`, `OOP Principles`
 
 ### 📊 Data Warehouse Project  
 > OLAP model using `SSAS`, `Snowflake Schema`, `Power BI`, and `Excel PivotTables`
 
-### ⏰ GoTask – Simple Task Manager App  
-> *A lightweight Android app built using Kotlin and SharedPreferences for managing daily tasks efficiently. Users can add tasks with deadlines, and the app triggers an alarm notification when the time is up.*  
-Tech Stack: `Kotlin`, `Android Studio`, `SharedPreferences`, `AlarmManager`
+### ⏰ GoTask – Task Manager  
+> Android app for managing deadlines with alarms and daily tracking  
+> 🛠 `Kotlin`, `Android Studio`, `SharedPreferences`, `AlarmManager`
 
 ---
 
 ## 🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=weharaSliit&theme=matrix&no-frame=true&no-bg=false&margin-w=10&margin-h=15" alt="GitHub Trophies" /> </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=weharaSliit&theme=matrix&no-frame=true&no-bg=false&margin-w=10&margin-h=15" />
+</p>
 
 ---
 
 ## 📈 GitHub Insights
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=weharaSliit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Wehara's GitHub Stats" /> <br><br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=weharaSliit&theme=tokyonight&hide_border=true" alt="Wehara's GitHub Streak" /> <br><br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weharaSliit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" /> <br><br> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=weharaSliit&theme=tokyonight" alt="GitHub Profile Summary" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=weharaSliit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" /><br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=weharaSliit&theme=tokyonight&hide_border=true" /><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weharaSliit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /><br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=weharaSliit&theme=tokyonight" />
+</p>
 
+---
 
-<!-- Advanced Activity Graph -->
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=weharaSliit&theme=aurora&bg_color=0D1117&color=FAD000&line=DD2727&point=8A2BE2&area=true&hide_border=true&radius=20&custom_title=📈%20Wehara%20Soyza's%20Development%20Journey" width="90%"/> </div>
+## 📊 Contribution Graph
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=weharaSliit&theme=aurora&bg_color=0D1117&color=FAD000&line=DD2727&point=8A2BE2&area=true&hide_border=true&radius=20&custom_title=📈%20Wehara%20Soyza's%20Development%20Journey" width="90%"/>
+</div>
+
+---
 
 ## 🌐 Connect With Me
 
@@ -116,8 +129,7 @@ Tech Stack: `Kotlin`, `Android Studio`, `SharedPreferences`, `AlarmManager`
 
 ---
 
-## 💬 Quote I Live By  
+## 💬 Quote I Live By
+
 > “**Data is a precious thing and will last longer than the systems themselves.**”  
 > – *Tim Berners-Lee*
-
----
