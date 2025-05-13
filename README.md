@@ -97,9 +97,7 @@ Tech Stack: `Kotlin`, `Android Studio`, `SharedPreferences`, `AlarmManager`
 
 
 <!-- Advanced Activity Graph -->
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=weharaSliit&theme=react-dark&hide_border=true&area=true&custom_title=My%20Development%20Activity&point=DD2727&area_color=DD2727&bg_color=0D1117&line=8A2BE2&color=8A2BE2" alt="Activity Graph"/>
-</div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=weharaSliit&theme=aurora&bg_color=0D1117&color=FAD000&line=DD2727&point=8A2BE2&area=true&hide_border=true&radius=20&custom_title=📈%20Wehara%20Soyza's%20Development%20Journey" width="90%"/> </div>
 
 
 ## 🌐 Connect With Me
