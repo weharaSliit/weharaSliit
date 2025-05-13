@@ -55,7 +55,7 @@
 ## 👨‍💻 Experience
 
 **🔹 PickMe – Database Engineer Intern**  
-Worked with large-scale SQL datasets, optimized queries, and participated in pipeline optimization discussions with the Data Engineering team.
+Worked with large-scale SQL datasets, optimized queries.
 
 ---
 
