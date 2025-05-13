@@ -110,18 +110,6 @@ Tech Stack: `Kotlin`, `Android Studio`, `SharedPreferences`, `AlarmManager`
 <div align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=weharaSliit&theme=react-dark&hide_border=true&area=true&custom_title=My%20Development%20Activity&point=DD2727&area_color=DD2727&bg_color=0D1117&line=8A2BE2&color=8A2BE2" alt="Activity Graph"/>
 </div>
-
-<!-- Contribution Calendar with Heatmap -->
-<div align="center">
-  <img width="90%" src="https://github-readme-stats.vercel.app/api?username=weharaSliit&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered&ring_color=DD2727&border_radius=15&custom_title=My%20Contribution%20Calendar&show_icons=false&include_all_commits=true&line_height=24&hide_title=true" alt="Contribution Calendar"/>
-</div>
-
-<!-- GitHub Metrics with Multiple Views -->
-<div align="center">
-  <img width="90%" src="https://metrics.lecoq.io/weharaSliit?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&lines=1&lines.sections=base&lines.repositories.limit=4&config.timezone=Asia%2FColombo&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=1&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false" alt="GitHub Metrics"/>
-</div>
-
-
 ---
 
 ## 🌐 Connect With Me
