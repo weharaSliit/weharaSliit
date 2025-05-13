@@ -75,6 +75,11 @@
 
 ---
 
+#🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=weharaSliit&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" /> </p>
+
+---
+
 ## 🌐 Connect with Me
 
 <p align="center">
